@@ -1,7 +1,5 @@
 # github_actions
 
-## github\_actions
-
 Ce dépôt est un projet d’apprentissage et de mise en œuvre des **GitHub Actions** pour l’intégration et le déploiement continus (CI/CD) sur des projets Python.
 
 ### Objectifs du projet
